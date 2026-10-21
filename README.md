@@ -46,3 +46,31 @@ Both models correctly classified all 30 test samples in this experiment.
 
 ## Conclusion
 This project helped me learn the basic steps of data analysis and machine learning classification using Python.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Task 2: Unemployment Analysis with Python
+
+### About the Project
+This project explores unemployment data in India using Python. I used Pandas to clean and analyse the data and Matplotlib and Seaborn to create visualisations.
+
+### Work Done
+- Loaded and cleaned the unemployment dataset.
+- Checked missing values and summary statistics.
+- Compared average unemployment rates across states.
+- Visualised monthly unemployment trends.
+- Compared unemployment rates before and during the COVID-19 period.
+- Created a correlation heatmap for selected numerical columns.
+- Compared monthly unemployment rates in Tamil Nadu, Kerala and Karnataka.
+
+### Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+### Conclusion
+This project helped me practise data cleaning, exploratory data analysis and visualisation using Python. It also helped me explore changes in unemployment rates across different states and over time.
+
