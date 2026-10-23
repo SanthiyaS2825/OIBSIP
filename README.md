@@ -74,3 +74,40 @@ This project explores unemployment data in India using Python. I used Pandas to 
 ### Conclusion
 This project helped me practise data cleaning, exploratory data analysis and visualisation using Python. It also helped me explore changes in unemployment rates across different states and over time.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+## Task 3: Car Price Prediction
+
+### Project Overview
+This project focuses on predicting the selling price of used cars using machine learning techniques. The dataset contains information about cars, including manufacturing year, present price, kilometres driven, fuel type, seller type, transmission, and previous owners.
+
+### Tools and Technologies
+- Python
+- Pandas and NumPy
+- Matplotlib and Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+### Work Done
+- Loaded and explored the used car dataset.
+- Checked missing values and removed duplicate records.
+- Performed data cleaning and feature engineering.
+- Created visualizations to understand car prices and their relationships with different features.
+- Encoded categorical variables for machine learning.
+- Split the dataset into training and testing sets.
+- Trained Linear Regression and Random Forest Regressor models.
+- Evaluated model performance using MAE, RMSE, and R² score.
+- Analysed feature importance using the Random Forest model.
+
+### Files
+- `Car_Price_Prediction.ipynb` – Notebook containing the code and analysis.
+- `car data.csv` – Dataset used for the project.
+
+### Conclusion
+This project provided practical experience in data preprocessing, exploratory data analysis, feature engineering, machine learning model training, and model evaluation for used car price prediction.
+
+
+
+
