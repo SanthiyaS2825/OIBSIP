@@ -108,6 +108,39 @@ This project focuses on predicting the selling price of used cars using machine 
 ### Conclusion
 This project provided practical experience in data preprocessing, exploratory data analysis, feature engineering, machine learning model training, and model evaluation for used car price prediction.
 
+------------------------------------------------------------------------------------------------
 
+
+## Task 4: Email Spam Detection with Machine Learning
+
+### Project Description
+This project uses machine learning to classify text messages as spam or ham (normal messages). The SMS Spam Collection dataset was used to train and evaluate the models.
+
+### Tools and Technologies
+- Python
+- Pandas
+- Scikit-learn
+- NLTK
+- Matplotlib
+- Seaborn
+
+### Steps Performed
+- Loaded and explored the SMS Spam Collection dataset.
+- Checked missing values and the distribution of spam and normal messages.
+- Preprocessed text by converting it to lowercase and removing punctuation and common stopwords.
+- Used TF-IDF to convert text messages into numerical features.
+- Split the dataset into training and testing sets.
+- Trained Multinomial Naive Bayes and Logistic Regression models.
+- Evaluated the models using accuracy, precision, recall, F1-score, and confusion matrices.
+
+### Model Results
+
+| Model | Accuracy | Precision | Recall | F1-Score |
+|---|---:|---:|---:|---:|
+| Multinomial Naive Bayes | 97.31% | 99.17% | 80.54% | 88.89% |
+| Logistic Regression | 96.50% | 100% | 73.83% | 84.94% |
+
+### Conclusion
+Multinomial Naive Bayes performed better overall on the test dataset, with 97.31% accuracy and 80.54% recall. This project helped me understand text preprocessing, TF-IDF feature extraction, machine learning classification, and model evaluation.
 
 
